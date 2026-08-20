@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3perform", "3perform\3perform.csproj", "{34FA57FD-3D10-46EE-BC43-C5AE351CAEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FA57FD-3D10-46EE-BC43-C5AE351CAEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FA57FD-3D10-46EE-BC43-C5AE351CAEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FA57FD-3D10-46EE-BC43-C5AE351CAEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FA57FD-3D10-46EE-BC43-C5AE351CAEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69CA358A-5305-4FFD-85C9-F49DC503A4FF}
+	EndGlobalSection
+EndGlobal
